@@ -1,7 +1,9 @@
 # MultiResolutionColorization
 Implementation of the paper: "Color image coding based on the colorization algorithm using multiple resolution images" using Processing
 
+
 Original Authors: Kazunori Uruma, Katsumi Konishi, Tomohiro Takahashi and Toshihiro Furukawa
+
 Implemented by: Georgina Dorca and Enric Moreu
 
 Colorization algorithm:
