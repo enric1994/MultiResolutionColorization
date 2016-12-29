@@ -4,8 +4,6 @@ Implementation of the paper: "Color image coding based on the colorization algor
 
 Original Authors: Kazunori Uruma, Katsumi Konishi, Tomohiro Takahashi and Toshihiro Furukawa
 
-Implemented by: Georgina Dorca and Enric Moreu
-
 Colorization algorithm:
 https://www.youtube.com/watch?v=BtAI2KmcAK8
 
